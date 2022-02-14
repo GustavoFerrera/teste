@@ -1,1 +1,6 @@
 git checkout -b branch-novo
+
+git add .
+
+
+git commit -m "teste branch-novo"
